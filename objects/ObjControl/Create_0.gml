@@ -1,0 +1,3 @@
+guns = [shotgun,
+		SprRevolver,
+		SprSpecRevolver];
